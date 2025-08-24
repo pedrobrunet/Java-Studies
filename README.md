@@ -31,8 +31,8 @@ Este repositório está organizado em três seções principais para facilitar a
 
 Conecte-se comigo e acompanhe meu progresso:
 
-* **LinkedIn:** [Link para o seu perfil do LinkedIn]
-* **GitHub:** [Link para o seu perfil do GitHub]
+* **LinkedIn:** [https://www.linkedin.com/in/jo%C3%A3o-pedro-brunet-323133346/]
+
 
 ---
 _Este README será atualizado regularmente conforme avanço em meus estudos._

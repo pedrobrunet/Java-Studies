@@ -47,7 +47,8 @@ public class gerenciador_de_tarefas {
                         }
                         System.out.print("Digite o número da tarefa que deseja remover: ");
                         int numeroTarefa = scanner.nextInt();
-                        scanner.nextLine(); // Consome a quebra de linha
+                        scanner.nextLine(); 
+                    
 
                         if (numeroTarefa > 0 && numeroTarefa <= listaTarefas.size()) {
                             String tarefaRemovida = listaTarefas.remove(numeroTarefa - 1);
